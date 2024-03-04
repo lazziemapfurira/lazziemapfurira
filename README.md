@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any data analytics related projects.
 - 📫 How to reach me on LinkedIn: linkedin.com/in/lazarusmapfurira10
 - 😄 Pronouns: Lyzrous
-- ⚡ Fun fact: Data is meaningless without a Data analyst.
+- ⚡ Fun fact: ....Loading
 
 <!---
 lazziemapfurira/lazziemapfurira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
