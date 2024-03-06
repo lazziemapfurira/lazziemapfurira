@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @lazziemapfurira
+### Hie I'm Lazarus Mapfurira👋, but you can call me Lazzie😘
+#### I am a Data science student
 - 👀 I’m interested in Data analytics and Machine Learning.
-- 🌱 I’m currently learning data science and informatics at the University of Zimbabwe.
+- 🌱 I’m currently learning advanced Power BI, Excel , Python and SQL for data science.
 - 💞️ I’m looking to collaborate on any data analytics related projects.
-- 📫 How to reach me on LinkedIn: linkedin.com/in/lazarusmapfurira10
+- 📫 How  mapfuriralaz@gmail.com or linkedin.com/in/lazarusmapfurira10
 - 😄 Pronouns: Lyzrous
-- ⚡ Fun fact: ....Loading
+- ⚡ Fun fact: I love music 
 
 <!---
 lazziemapfurira/lazziemapfurira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
