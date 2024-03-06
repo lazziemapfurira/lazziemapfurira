@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data analytics and Machine Learning.
 - 🌱 I’m currently learning advanced Power BI, Excel , Python and SQL for data science.
 - 💞️ I’m looking to collaborate on any data analytics related projects.
-- 📫 How  mapfuriralaz@gmail.com or linkedin.com/in/lazarusmapfurira10
+- 📫 How to get in touch mapfuriralaz@gmail.com or linkedin.com/in/lazarusmapfurira10
 - 😄 Pronouns: Lyzrous
 - ⚡ Fun fact: I love music 
 
