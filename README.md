@@ -1,6 +1,6 @@
 ### Hie I'm Lazarus Mapfurira👋, but you can call me Lazzie😘
 #### About Me
-- I am a Data science and informatics student at the University of Zimbabwe 
+- 🎓 I am a Data science and informatics student at the University of Zimbabwe 
 - 👀 I’m interested in Data analytics and Machine Learning.
 - 🌱 I’m currently learning advanced Power BI, Excel , Python and SQL for data science.
 - 💞️ I’m always eager to collaborate or discuss on any data science related projects or topics.
@@ -8,7 +8,7 @@
 - 📧 Feel free to reach out to me via email: [imapfuriralaz@gmail.com ](mailto:mapfuriralaz@gmail.com )
 - 💬 Connect with me on [LinkedIn](linkedin.com/in/lazarusmapfurira10)
 ### Projects
-- Feel free to chech my repository
+- Feel free to check my repository
 
 ### Skills
 - 📊 Data Analysis
