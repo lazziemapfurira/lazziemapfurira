@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced Power BI, Excel , Python and SQL for data science.
 - 💞️ I’m always eager to collaborate or discuss on any data science related projects or topics.
 #### 📫 How to get in touch
-- 📧 Feel free to reach out to me via email: [imapfuriralaz@gmail.com ](mailto:mapfuriralaz@gmail.com )
+- 📧 Feel free to reach out to me via email: [mapfuriralaz@gmail.com ](mailto:mapfuriralaz@gmail.com )
 - 💬 Connect with me on [LinkedIn](linkedin.com/in/lazarusmapfurira10)
 ### Projects
 - Feel free to check my repository
